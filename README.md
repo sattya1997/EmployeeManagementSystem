@@ -1,2 +1,2 @@
 # EmployeeManagementSystem
-Build a employee management system by ajax, jquery, mysql, servlet, jsp
+Build a employee management system by Ajax, JQuery, Mysql, Servlet, Jsp, Css. 
